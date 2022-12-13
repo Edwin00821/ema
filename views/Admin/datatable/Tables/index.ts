@@ -1,0 +1,13 @@
+export { default as TableGenero } from './TableGenero';
+export { default as TableUser } from './TableUser';
+export { default as TableEspecialidad } from './TableEspecialidad';
+export { default as TableInteligencia } from './TableInteligencia';
+export { default as TableMaterial } from './TableMaterial';
+export { default as TableParcial } from './TableParcial';
+export { default as TableRol } from './TableRol';
+export { default as TableSemestre } from './TableSemestre';
+export { default as TableSubtema } from './TableSubtema';
+export { default as TableUaprendizaje } from './TableUaprendizaje';
+export { default as TableTema } from './TableTema';
+export { default as TablePersona } from './TablePersona';
+export { default as TableEstudiante } from './TableEstudiante';

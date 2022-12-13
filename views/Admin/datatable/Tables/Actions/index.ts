@@ -1,0 +1,14 @@
+export { default as UserActions } from './UserActions';
+export { default as EspecialidadActions } from './EspecialidadActions';
+export { default as GeneroActions } from './GeneroActions';
+export { default as InteligenciaActions } from './InteligenciaActions';
+export { default as MaterialActions } from './MaterialActions';
+export { default as ParcialActions } from './ParcialActions';
+export { default as PersonaActions } from './PersonaActions';
+export { default as RolActions } from './RolActions';
+export { default as EstudianteActions } from './EstudianteActions';
+export { default as SemestreActions } from './SemestreActions';
+export { default as SubtemaActions } from './SubtemaActions';
+export { default as TemaActions } from './TemaActions';
+export { default as UAprendizajeActions } from './UAprendizajeActions';
+export { default as AdminActions } from './AdminActions';
