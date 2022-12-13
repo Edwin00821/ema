@@ -1,12 +1,14 @@
 import { FC } from 'react';
 import Link from 'next/link';
+
+import { HamburguerMenu, ListOfNavs, Profile } from './';
+
 import { useAuth, useScrolled } from 'hooks';
 
 import type { Navs } from 'typings';
 
 import { Box } from '@mui/material';
 import { Logo } from 'components/Logo';
-import { HamburguerMenu, ListOfNavs, Profile } from './';
 
 interface Props {
   navs: Navs[];
